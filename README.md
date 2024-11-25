@@ -1,1 +1,1 @@
-# odin-recipes
+The first iteration of this project will be used to demonstrate current HTML knowledge by building a basic recipe website. There will be a main index page which links to a few recipes in the website.
